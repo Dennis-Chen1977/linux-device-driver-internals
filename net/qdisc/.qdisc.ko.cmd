@@ -1,0 +1,1 @@
+cmd_/home/dennis/workspace/Linux/book/v2_sourcecode/net/qdisc/qdisc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/dennis/workspace/Linux/book/v2_sourcecode/net/qdisc/qdisc.ko /home/dennis/workspace/Linux/book/v2_sourcecode/net/qdisc/qdisc.o /home/dennis/workspace/Linux/book/v2_sourcecode/net/qdisc/qdisc.mod.o

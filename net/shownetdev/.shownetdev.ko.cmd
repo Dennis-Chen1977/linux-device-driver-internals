@@ -1,0 +1,1 @@
+cmd_/home/dennis/workspace/Linux/book/v2_sourcecode/net/shownetdev/shownetdev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/dennis/workspace/Linux/book/v2_sourcecode/net/shownetdev/shownetdev.ko /home/dennis/workspace/Linux/book/v2_sourcecode/net/shownetdev/shownetdev.o /home/dennis/workspace/Linux/book/v2_sourcecode/net/shownetdev/shownetdev.mod.o
