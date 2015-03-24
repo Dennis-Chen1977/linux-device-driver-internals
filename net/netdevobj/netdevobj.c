@@ -1,4 +1,4 @@
-/* This file is used to display driver mode info & ingress queue of the net_device 
+/* This file is used to display driver mode info of the net_device 
  * which has been registered into the system
  * Mar.23, 2015
  */
